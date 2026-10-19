@@ -1,0 +1,42 @@
+    p {
+        margin: 0;
+        margin-bottom: 20px;
+        margin-top: 4px;
+    }
+    .video-title {
+        font-family: Arial;
+        font-size: 32px;
+        font-weight: bold;
+        color: #0f0f0f;
+    }
+
+    .video-stats {
+        font-family: Arial;
+        font-size: 16px;
+        color: #555;
+    }
+    .video-author {
+        font-family: Arial;
+        font-size: 14px;
+        color: #888;
+    }
+    .description {
+        font-family: Arial;
+        font-size: 14px;
+        color: #3f3d3d;
+        width: 280px;
+        line-height: 21px;
+        margin-bottom: 100px;
+    }
+    .shoptext {
+        font-family: Arial;
+        font-size: 14px;
+        background-color: #bb4040;
+        color: #fcfbfb;
+        width: 500px;
+        line-height: 21px;
+        margin-bottom: 50px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+    }
